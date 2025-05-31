@@ -26,3 +26,6 @@ pydantic>=2.0
 langchain-google-genai>=0.0.6
 python-dotenv>=1.0.1
 tiktoken>=0.5.1
+langchain-community
+langchain-openai
+langchain-experimental
