@@ -29,3 +29,4 @@ tiktoken>=0.5.1
 langchain-community
 langchain-openai
 langchain-experimental
+gradio
